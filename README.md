@@ -185,8 +185,8 @@ Calculate the following for **each store per month**:
 ### 🔃 Clone the Repository
 
 ```bash
-git clone https://github.com/misskranti/mern-stack-projects.git
-cd assessment-tasks
+git clone https://github.com/misskranti/mern_stack_assignment.git
+cd mern_stack_assignment
 ```
 
 ---
@@ -213,6 +213,7 @@ const uri = "mongodb+srv://Saswath1403:S%40swath9476@cluster0.fjep0.mongodb.net/
 
 ```bash
 cd mongodb-aggregation
+npm install
 node sales-aggregation.js
 ```
 
